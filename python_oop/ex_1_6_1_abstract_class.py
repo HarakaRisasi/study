@@ -26,4 +26,4 @@ class AbstractClass:
         return "Ошибка: нельзя создавать объекты абстрактного класса"
 
 obj = AbstractClass()
-print(obj)
+obj
