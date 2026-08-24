@@ -1,5 +1,20 @@
 public class Lesson {
     public static void main(String[] args) {
-        // Урок 03: Операторы
+        System.out.println(3 + 4);
+        System.out.println(3 - 4);
+        System.out.println(3 * 4);
+        System.out.println(3 / 4);
+        System.out.println(3 % 4);
+        System.out.println(3 == 4);
+        System.out.println(3 != 4);
+        System.out.println(3 > 4);
+        System.out.println(3 < 4);
+        System.out.println(3 >= 4);
+        System.out.println(3 <= 4);
+        System.out.println(3 == 4 && 3 != 4);
+        System.out.println(3 == 4 || 3 != 4);
+        System.out.println(3 == 4 ^ 3 != 4);
+        System.out.println(3 == 4 & 3 != 4);
+        System.out.println(3 == 4 | 3 != 4);
     }
 }
