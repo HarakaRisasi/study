@@ -18,5 +18,6 @@ public class Lesson {
         System.out.println(3 == 4 | 3 != 4);
 
         // Вывод на экран результата выражения 3 + 4 * 5
-        System.out.println(3 + 4 * 5);    }
+        System.out.println(3 + 4 * 5);        
+    }
 }
