@@ -36,5 +36,9 @@ public class Lesson {
         System.out.println(0.39 * 0.22); // 0.0858
         System.out.println(Integer.MAX_VALUE); // 2147483647
 
+        // Линтер
+        // Выведите результат: «разница между суммой пяти и двух и произведением трёх и семи».
+        System.out.println((5 + 2) - (3 * 7)); // -16
+
     }
 }
