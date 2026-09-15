@@ -45,7 +45,6 @@ Cnk = math.factorial(n) // (math.factorial(k) * math.factorial(n - k))
 
 print(Cnk)
 
-
 n, k = map(int, input().split())
 
 
